@@ -85,3 +85,7 @@ input:focus {
   font-weight: bolder;
   margin-bottom: 0.6rem;
 }
+
+.form-control input {
+  
+}
