@@ -1,0 +1,1 @@
+// aquisição do código javascript restante faltante para //inserção de evento no gerador
