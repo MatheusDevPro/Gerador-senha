@@ -91,7 +91,7 @@ input:focus {
   border-bottom: 1px solid #aaa;
   padding: 0.6rem 0;
 }
-<<<<<<< HEAD
+
 
 #open-generate-password {
   font-weight: bold;
@@ -180,6 +180,3 @@ register-form input[type="submit"]:hover {
   display: none;
 }
 
-=======
- /* falta o restante do código para fechar o ccs */
->>>>>>> cb8bbac542a06a77b25a140c8937b70f1a390c31
